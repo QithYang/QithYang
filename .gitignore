@@ -1,0 +1,26 @@
+# Private chat data
+conversations.json
+
+# Private templates - exclude all html except the app itself
+*.html
+!index.html
+
+# Large archives
+*.zip
+
+# Test screenshots
+test-*.png
+screen-*.png
+
+# Stray copy of logo (real one is in assets/)
+/claude-logo.png
+
+# Claude Code workspace
+.claude/
+.playwright-mcp/
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
