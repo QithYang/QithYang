@@ -1,6 +1,9 @@
 # Private chat data
 conversations*.json
 
+# Phase investigation artefacts (scripts + reports + tools)
+tools/
+
 # Local planning / handoff notes (cross-session)
 *.md
 !README.md
