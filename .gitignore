@@ -1,8 +1,9 @@
 # Private chat data
 conversations*.json
 
-# Phase investigation artefacts (scripts + reports + tools)
+# Phase investigation artefacts (scripts/reports in tools/, fixtures + whitelists at workdir root)
 tools/
+phase*.json
 
 # Local planning / handoff notes (cross-session)
 *.md
