@@ -1,5 +1,9 @@
 # Private chat data
-conversations.json
+conversations*.json
+
+# Local planning / handoff notes (cross-session)
+*.md
+!README.md
 
 # Private templates - exclude all html except the app itself
 *.html
