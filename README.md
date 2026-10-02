@@ -4,6 +4,6 @@ I build small self-hosted systems for my own daily use. I specify, design, test,
 
 - **Pink Anchor**: a self-hosted memory and data service for AI assistants (Python/FastAPI, SQLite FTS5, Docker Compose, MCP, Cloudflare Tunnel)
 - **Pink Anchor for Android**: a health data pipeline from a wearable to that service (Kotlin, Jetpack Compose, Health Connect)
-- **QithYang**: a client-side archive viewer for exported AI chats (HTML/JavaScript, IndexedDB) · [repository](https://github.com/QithYang/chat-archive-viewer) · [live demo](https://qithyang.github.io/chat-archive-viewer/)
+- **Chat Archive Viewer**: a client-side reader for exported AI chats (HTML/JavaScript, IndexedDB) · [repository](https://github.com/QithYang/chat-archive-viewer) · [live demo](https://qithyang.github.io/chat-archive-viewer/)
 
 The Pink Anchor repository is private because it holds live configuration. My [technical portfolio](https://github.com/QithYang/portfolio) has descriptions, diagrams, screenshots and code excerpts for all three projects.
