@@ -1,4 +1,4 @@
-Hi, I'm Yuanwei. Lawyer by training, with six years in public-sector evaluation and decision support.
+Hi, I'm Yuanwei Zhao. Lawyer by training, with six years in public-sector evaluation and decision support.
 
 I build data and AI systems that I use every day. I specify, design, test, deploy and operate them, directing AI coding agents to write the code.
 
